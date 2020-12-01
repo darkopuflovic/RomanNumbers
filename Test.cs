@@ -35,6 +35,7 @@ namespace RomanNumbers
 
             var c = new string[] { "M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I" };
             List<string> all = new List<string>();
+            
             all.AddRange(c);
             all.AddRange((from f in c
                           from s in c
