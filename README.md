@@ -1,5 +1,5 @@
 # RomanNumbers
-Roman Number Conversions
+Conversions between Roman numerals and Arabic numbers.
 
 # Usage instructions
 Console application written using .NET 5.
