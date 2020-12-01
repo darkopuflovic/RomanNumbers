@@ -27,9 +27,9 @@ namespace RomanNumbers
                             var roman = Console.ReadLine().ToUpper();
                             Console.ResetColor();
 
-                            if (roman.TryToArabic(out int arabic, true))
+                            if (roman.TryToArabic(out int arabic1, true))
                             {
-                                Console.WriteLine($"\u001b[93mRoman: \u001b[33m{roman} : \u001b[93mArabic: \u001b[92m{arabic}\u001b[0m");
+                                Console.WriteLine($"\u001b[93mRoman: \u001b[33m{roman} : \u001b[93mArabic: \u001b[92m{arabic1}\u001b[0m");
                             }
                             break;
                         case ConsoleKey.A:
