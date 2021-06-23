@@ -9,4 +9,4 @@ Strings inside code contain color codes, that can be displayed only using Comman
 # Screen
 Basic usage of the application:
 
-![Screenshot](https://github.com/darkopuflovic/RomanNumbers/blob/master/Screen.png)
+![Screenshot](Screen.png)
